@@ -6,7 +6,7 @@ This is a study acomplishments guide on how I'm planning to become a hardware ha
 - PCB
 
 ## Mechatronics / Automation
--Robotics 
+- Robotics 
   -
 
 ## Industrial Design
@@ -25,6 +25,7 @@ This is a study acomplishments guide on how I'm planning to become a hardware ha
 - Woodworking
 - Metal Working
   - Metal casting
+  - Welding
 - CNC Machining
   - Aluminum Machining
   - Wood Machining
@@ -32,9 +33,11 @@ This is a study acomplishments guide on how I'm planning to become a hardware ha
   - FDM
   - Resin Printing
   - Metal Printing
+- Injection Molding
+- Sheet Metal
 ## Software
 - C
-- 
+- Machine Vision
 ## Networking
 
 
