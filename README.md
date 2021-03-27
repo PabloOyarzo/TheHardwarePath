@@ -2,7 +2,12 @@
 This is a study acomplishments guide on how I'm planning to become a hardware hacker.
 
 ## Electronics
+- Squematics
 - PCB
+
+## Mechatronics / Automation
+-Robotics 
+  -
 
 ## Industrial Design
 - Sketching
@@ -23,7 +28,10 @@ This is a study acomplishments guide on how I'm planning to become a hardware ha
 - CNC Machining
   - Aluminum Machining
   - Wood Machining
-
+- 3D Printing
+  - FDM
+  - Resin Printing
+  - Metal Printing
 ## Software
 - C
 - 
