@@ -31,7 +31,9 @@ This is a study acomplishments guide on how I'm planning to become a hardware ha
   - Wood Machining
 - 3D Printing
   - FDM
+    [] Dual Material Printing (ie. TPU + PETG)
   - Resin Printing
+    [] Casting Material 
   - Metal Printing
 - Injection Molding
 - Sheet Metal
