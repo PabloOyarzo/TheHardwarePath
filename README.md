@@ -7,7 +7,9 @@ This is a study acomplishments guide on how I'm planning to become a hardware ha
 
 ## Mechatronics / Automation
 - Robotics 
-  -
+
+## Semiconductors
+- Purdue's Semiconductor 101 (Online-Free)
 
 ## Industrial Design
 - Sketching
@@ -28,6 +30,8 @@ This is a study acomplishments guide on how I'm planning to become a hardware ha
   - Welding
 - CNC Machining
   - Aluminum Machining
+    [ ] Home owned (ie. Shapeoko) 
+    - Projects: 
     - [ ] Project: Logo Company machined for paperweight and/or pin
   - Wood Machining
 - 3D Printing
@@ -35,10 +39,12 @@ This is a study acomplishments guide on how I'm planning to become a hardware ha
     - [ ] Dual Material Printing (ie. TPU + PETG)
   - Resin Printing
     - [ ] Casting Material
+      - Projects: 
       - [ ] Project: Complex shape jewlery 
   - Metal Printing
-    - [ ] Project: Complex shape desk paperweight
-    - [ ] Project: Silencer for gun
+    - Projects: 
+      - [ ] Project: Complex shape desk paperweight
+      - [ ] Project: Silencer for gun
 - Injection Molding
 - Sheet Metal
 ## Software
